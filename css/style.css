@@ -34,12 +34,9 @@
   #div4{
       background-color: green;
   }
-  #div1,#div2{
+  #div1,#div2,#div3,#div4{
       position: static;
   }
-  #div3,#div4{
-      position: fixed;
-  } 
   #playstationX{
       color:blue;
   }
